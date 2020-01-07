@@ -1,0 +1,18 @@
+body {
+    font-family: Courier New, Courier, monospace;
+    font-weight: bold;
+    background-color: #ffffff;
+}
+
+.flex-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  text-align: center;
+  min-height: 500px;
+}
+.header {
+    max-width: 50%;
+    text-align: center;
+}
