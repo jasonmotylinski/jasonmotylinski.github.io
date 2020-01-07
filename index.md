@@ -1,12 +1,36 @@
-<html>
-	<head>
-		<title>Jason Motylinski</title>
-	</head>
-	<body>
-		<ul>
-  			{% for post in site.posts %}
-    				<li><a href="{{ post.url }}">{{ post.title }}</a></li>
-  			{% endfor %}			
-		</ul>
-	</body>
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="The resume and portfolio site for Jason Motylinski"/>
+    <link rel="canonical" href="http://jason.motylinski.com"/>
+    <title>Jason Motylinski</title>
+    <!-- Bootstrap -->
+    <link href="bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <link href="assets/css/global.css" rel="stylesheet">
+    <link rel="shortcut icon" href="">
+    <link rel="apple-touch-icon" sizes="129x129" href="">  
+  </head>
+  <body>
+
+    <div id="wrapper">
+      <div class="container" >
+        <div class="row-fluid">
+          <div class="md-col-12">
+            <div class="flex-container">
+              <div class="header">
+                <div>jason motylinski.</div>
+                <div><a href="https://www.github.com/jasonmotylinski">github</a></div>
+                <div><a href="https://www.linkedin.com/in/jasonmotylinski?">linkedin</a></div>
+                <div><a href="JasonMotylinski-Resume.pdf">resume</a></div>
+                <div><a href="mailto:jason@motylinski.com?subject=Hello!">contact</a></div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>
 </html>
