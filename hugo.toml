@@ -45,3 +45,6 @@ url = "Jason Motylinski Resume.pdf"
     [markup.goldmark]
         [markup.goldmark.renderer]
             hardWraps = true
+[services]
+  [services.googleAnalytics]
+    ID = 'G-N18DLRD200'
