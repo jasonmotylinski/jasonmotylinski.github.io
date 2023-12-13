@@ -1,16 +1,17 @@
 baseURL = 'https://jason.motylinski.com/'
+title = 'Jason Motylinski'
 languageCode = 'en-us'
-title = "Jason Motylinski"
 theme = 'anatole'
 
 [params]
-# title = 'Jason Motylinski'
 author = 'Jason Motylinski'
 description = 'Jason Motylinski'
 profilePicture = 'images/me-work.png'
 fullPostContent = true
 displayMode = 'light'
-contentratio = 0.7
+disableThemeSwitcher = true
+contentratio = 0.8
+
 
 [[params.socialIcons]]
 icon = "fab fa-linkedin"
