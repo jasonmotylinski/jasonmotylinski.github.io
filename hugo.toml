@@ -1,0 +1,45 @@
+baseURL = 'https://jason.motylinski.com/'
+languageCode = 'en-us'
+title = "Jason Motylinski"
+theme = 'anatole'
+
+[params]
+# title = 'Jason Motylinski'
+author = 'Jason Motylinski'
+description = 'Jason Motylinski'
+profilePicture = 'images/me-work.png'
+fullPostContent = true
+
+[[params.socialIcons]]
+icon = "fab fa-linkedin"
+title = "Linkedin"
+url = "https://www.linkedin.com/in/jasonmotylinski"
+
+[[params.socialIcons]]
+icon = "fab fa-github"
+title = "Github"
+url = "https://github.com/jasonmotylinski"
+
+[[params.socialIcons]]
+icon = "fa-regular fa-envelope"
+title = "E-mail"
+url = "mailto:jason@motylinski.com?subject=Hello!"
+target = "_self"
+
+[[params.socialIcons]]
+icon = "fa-regular fa-file-pdf"
+title = "Resume"
+url = "Jason Motylinski Resume.pdf"
+
+[menu]
+  [[menu.main]]
+  name = "Home"
+  identifier = "home"
+  weight = 100
+  url = "/"
+
+[markup]
+    defaultMarkdownHandler = 'goldmark'
+    [markup.goldmark]
+        [markup.goldmark.renderer]
+            hardWraps = true
