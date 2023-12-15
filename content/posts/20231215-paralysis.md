@@ -20,3 +20,4 @@ I'm going to take my own advice. Here's a nonsensical, non-prioritized, non-comp
 * How much time does it take to be a manager?
 * Zettelkasten
 * Korn Ferry
+* Personal and professional reading list
