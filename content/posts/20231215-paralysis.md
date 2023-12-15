@@ -21,3 +21,7 @@ I'm going to take my own advice. Here's a nonsensical, non-prioritized, non-comp
 * Zettelkasten
 * Korn Ferry
 * Personal and professional reading list
+* Projects
+  * Rawk it
+  * Home Assistant
+  * Raffl.online
