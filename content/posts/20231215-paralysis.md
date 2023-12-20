@@ -9,21 +9,21 @@ I get stuck in starting on the most basic tasks. This blog is a prime example. I
 
 I'm going to take my own advice. Here's a nonsensical, non-prioritized, non-complete, brain dump of topics that will blog about at some point:
 
-* How to start a new job
-* Waiting / validating opinions
-* Imposter syndrome
-* feedback
-* how to start anything
-* setting and measuring expectations
-* how to build consensus
-* It's ok to not be a tech firm
-* How much time does it take to be a manager?
-* Zettelkasten
-* Korn Ferry
-* Personal and professional reading list
-* Projects
-  * Rawk it
-  * Home Assistant
-  * Raffl.online
+- [ ] How to start a new job
+- [ ] Waiting / validating opinions
+- [ ] Imposter syndrome
+- [ ] feedback
+- [ ] how to start anything
+- [ ] setting and measuring expectations
+- [ ] how to build consensus
+- [ ] It's ok to not be a tech firm
+- [ ] How much time does it take to be a manager?
+- [ ] Zettelkasten
+- [ ] Korn Ferry
+- [ ] Personal and professional reading list
+- Projects
+  - [ ] Rawk it
+  - [ ] Home Assistant
+  - [ ] Raffl.online
 * Books reviews
-  * Shape up 
+  - [x] Shape up
