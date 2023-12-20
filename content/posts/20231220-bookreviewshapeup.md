@@ -15,11 +15,13 @@ I recently read [Shape Up](https://basecamp.com/shapeup/) based on the recommend
 
 The biggest change  [Shape Up](https://basecamp.com/shapeup/) proposes is using time as a constraint.  [Shape Up](https://basecamp.com/shapeup/) introduces the concept of a "Cycle", which is a time box of 6 weeks.  [Shape Up](https://basecamp.com/shapeup/) correctly calls out a major pain point of scrum - a 2 week sprint just too short to accomplish meaningful when developing a product.  
 
-## The Pitch
+## Shaping the Pitch
 
 The cycle is meant to be heads down delivery which means much of the discovery and definition of the problem needs to be completed before hand.  [Shape Up](https://basecamp.com/shapeup/) spends much of the time outlining a process referred to as "The Pitch". It is a method for product teams to form a hypothesis, present a proposal, and for the organization to bet on it for the next 6 weeks. The solution to the pitch must fit within a cycle otherwise the problem is too big.
 
-Multiple pitches will be made by multiple teams. The Pitch process gives the teams a chance to prioritize which pitches to bet on for the next cycle. There's a variety of factors which may make a pitch approved or rejected. The important change is the conversation and alignment which happen or the various pitches. When a cycle starts everyone should know which objectives they are targeting and why those objectives were picked.
+The process of fitting a pitch into the timespan is consider the "shaping" process. In the shaping process the team is refining scope, throwing out any unnecessary work, and refining the approach so that the goal can be achieved within the cycle. Compromises will be made which is all part of the process.
+
+Multiple pitches will be made by multiple teams for the upcoming cycle. The Pitch process gives the teams a chance to prioritize which pitches to bet on for the next cycle. There's a variety of factors which may make a pitch approved or rejected. The important change is the conversation and alignment which happen or the various pitches. When a cycle starts everyone should know which objectives they are targeting and why those objectives were picked.
 
 ## Cool down
 
