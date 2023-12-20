@@ -1,5 +1,5 @@
 ---
-title: 'Book Review: Shape UP'
+title: 'Book Review: Shape Up'
 date: 2023-12-20T12:00:00-05:00
 draft: false
 tags: ['bookreview', 'pdlc']
