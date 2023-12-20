@@ -5,6 +5,8 @@ draft: false
 tags: ['bookreview', 'pdlc']
 ---
 
+<center><img src="https://basecamp.com/assets/books/shapeup-cover-black-014d03ca1f6b39b50b03323b1e5caa298ff049cef9bb496bc5faf6d03123ce62.svg" width="200" alt="shape up book"></center>
+
 I recently read [Shape Up](https://basecamp.com/shapeup/) based on the recommendation of peers at work looking to iterate on their product development life cycle. Like many companies we follow scrum loosely. Scrum works well once an initiative moves into delivery but we struggle with the upfront discovery, definition, and design phases. Historically we have done annual planning, spending countless months to create outcomes, debate initiatives, and adjust the organizational structure only to realize 2 months in to the new year we need to pivot.  [Shape Up](https://basecamp.com/shapeup/) is a process which allows teams to quickly discover, define, develop and pivot.
 
 37Signals has made  [the book](https://basecamp.com/shapeup/) freely available online. Below are some of thoughts on some of it's topics.
