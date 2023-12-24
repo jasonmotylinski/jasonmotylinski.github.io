@@ -34,12 +34,17 @@ icon = "fa-regular fa-file-pdf"
 title = "Resume"
 url = "Jason Motylinski Resume.pdf"
 
-[menu]
-  [[menu.main]]
+[menus]
+[[menus.main]]
   name = "Home"
   identifier = "home"
   weight = 100
   url = "/"
+#[[menus.main]]
+#  name = "Projects"
+#  identifier = "projects"
+#  weight = 200
+#  url = "/projects/"
 
 [markup]
     defaultMarkdownHandler = 'goldmark'

@@ -1,0 +1,4 @@
+{{ $path := .Get "path" }}{{ $files := readDir $path }}
+<ul class="reportlist">{{ range sort $files ".Name" "asc" }}{{ if not .IsDir }}{{ if ne .Name "index.md" }}
+<li><a class="reportitem" href="{{ .Name }}">{{ .Name }}</a></li>
+{{ end }}{{ end }}{{ end }}</ul>
