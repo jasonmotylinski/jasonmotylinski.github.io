@@ -1,21 +1,27 @@
 {{ define "main" }}
-  <div
-    class="archive {{ with .Site.Params.doNotLoadAnimations }}
-      .
-    {{ else }}
-      animated fadeInDown
-    {{ end }}"
-  >
+    <div
+        class="archive {{ with .Site.Params.doNotLoadAnimations }}
+        .
+        {{ else }}
+            animated fadeInDown
+        {{ end }}"
+    >
     {{ range .Data.Pages.GroupByDate "2006" }}
       {{ range .Pages }}
         <ul class="archive__list">
           <li class="archive__list-item">
-            <div>
-              <a class="archive__list-title" href="{{ .RelPermalink }}" title="{{ .Title }}">{{ .Title }}</a>
-            </div>
-            <div>
-              {{ .Summary }}
-            </div>
+            <div style="display:inline-block; vertical-align: top">
+              <div>
+                <a class="archive__list-title" href="{{ .RelPermalink }}" title="{{ .Title }}">{{ .Title }}</a>
+              
+              </div>
+              <div>
+                {{ .Summary }}
+              </div>
+           </div>
+           <div style="display:inline-block; vertical-align: top">
+                <img src="{{ .Params.thumbnail }}"  height="100"/>
+           </div>
           </li>
         </ul>
       {{ end }}
