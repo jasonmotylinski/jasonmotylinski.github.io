@@ -1,6 +1,6 @@
 ---
 title: 'Computerjargon.com Archives'
-date: 2024-01-01T12:00:00-05:00
+date: 2024-01-03T12:00:00-05:00
 draft: false
 tags: ['backstory', 'computerjargon', 'project']
 ---
