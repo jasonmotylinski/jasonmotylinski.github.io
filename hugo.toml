@@ -39,12 +39,13 @@ url = "Jason Motylinski Resume.pdf"
   name = "Home"
   identifier = "home"
   weight = 100
-  url = "/"
-#[[menus.main]]
-#  name = "Projects"
-#  identifier = "projects"
-#  weight = 200
-#  url = "/projects/"
+  pageRef = "/"
+
+[[menus.main]]
+  name = "Projects"
+  identifier = "projects"
+  weight = 200
+  pageRef= "/projects/"
 
 [markup]
     defaultMarkdownHandler = 'goldmark'

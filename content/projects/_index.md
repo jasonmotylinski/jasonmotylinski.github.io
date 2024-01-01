@@ -1,6 +1,6 @@
 ---
 title: 'Projects'
-draft: true
-description: 'Welcome to my Portfolio!'
+draft: false
+description: 'Projects'
 Key: 'Projects'
 ---

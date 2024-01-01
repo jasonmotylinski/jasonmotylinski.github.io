@@ -15,7 +15,6 @@
     padding: 0;
 
     &-item {
-      display: flex;
       justify-content: space-between;
       padding-bottom: 5px;
       list-style-type: none;
@@ -33,6 +32,8 @@
       display: inline-block;
       flex: 0.96;
       text-transform: uppercase;
+      font-weight: 600;
+      font-size: 2rem;
 
       @include themed() {
         color: t('primary');
