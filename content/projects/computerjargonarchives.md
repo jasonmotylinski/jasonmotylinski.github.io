@@ -2,6 +2,7 @@
 title: 'Computerjargon.com Archives'
 summary: Historical archive of contents from Computerjargon.com from 1999-2010.
 kind: page
+parent: 'Projects'
 ---
 
 ## Summary

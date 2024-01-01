@@ -10,14 +10,19 @@
     <span aria-hidden="true" class="navbar-burger__line"></span>
     <span aria-hidden="true" class="navbar-burger__line"></span>
   </a>
+ 
   <nav class="nav">
     <ul class="nav__list" id="navMenu">
       {{ $url := .RelPermalink }}
+      {{ $page := . }}
       {{ range $menuId, $menuItem := .Site.Menus.main }}
-        {{ $active := eq $url $menuItem.URL }}
+        {{ $has := $page.HasMenuCurrent "main" . }}
+        {{ $is := eq $url $menuItem.URL  }}
+        {{ $active := or $has $is }}
         {{ if $menuItem.HasChildren }}
 
           <li class="nav__list-item">
+            
             <div class="optionswitch">
               <input class="optionswitch__picker" type="checkbox" id="{{ $menuId }}" hidden />
 
@@ -55,6 +60,7 @@
         {{ else }}
           <li class="nav__list-item">
             {{ .Pre }}
+  
             <a
               {{ if $active }}
                 class="nav__link--active"
