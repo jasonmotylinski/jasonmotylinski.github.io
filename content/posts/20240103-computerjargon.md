@@ -19,4 +19,4 @@ I've kept a lot of data and documents over the years, but the content from 1998 
 
 I decided to try the [Wayback Machine](https://archive.org/web/) in hopes that it had caught some of [Computerjargon.com's](https://www.computerjargon.com) history. To my surprise the [Wayback Machine](https://archive.org/web/) had lots of my former blog content. It had captured the first page I published in 1999 all the way thru the site going stale in 2010.
 
-I wrote a quick script to download my content from [Wayback Machine](https://archive.org/web/) to preserve it and published the [Computerjargon.com Archives](projects/computerjargonarchives/) for posterity's sake. I like to peruse the content from time to time. The archives contain so many forgotten memories.
+I wrote a quick script to download my content from [Wayback Machine](https://archive.org/web/) to preserve it and __published the [Computerjargon.com Archives](projects/computerjargonarchives/) online__ for posterity's sake. The archive contains snapshots from 1999 thru 2010. Much of the content is very cringe-worthy but I like to peruse it from time to time. The archives contain so many forgotten memories.
