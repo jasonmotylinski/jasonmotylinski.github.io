@@ -42,9 +42,16 @@ url = "Jason Motylinski Resume.pdf"
   pageRef = "/"
 
 [[menus.main]]
+  name = "Posts"
+  identifier = "Posts"
+  weight = 200
+  pageRef= "/posts/"
+
+
+[[menus.main]]
   name = "Projects"
   identifier = "projects"
-  weight = 200
+  weight = 300
   pageRef= "/projects/"
 
 [markup]
