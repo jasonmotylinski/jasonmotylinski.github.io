@@ -6,8 +6,8 @@
             animated fadeInDown
         {{ end }}"
     >
-    {{ range .Data.Pages.GroupByPublishDate "2006" }}
-        <p class="archive__list-title">{{ .Key }}</p>
+    {{ range .Data.Pages.GroupByPublishDate "January 2006" }}
+        <h1>{{ .Key }}</h1>
         {{ range .Pages }}
             <ul class="archive__list">
             <li class="archive__list-item">
