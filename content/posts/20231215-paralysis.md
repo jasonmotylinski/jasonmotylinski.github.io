@@ -28,6 +28,7 @@ I'm going to take my own advice. Here's a nonsensical, non-prioritized, non-comp
   - [ ] Raffl.online
   - [ ] joels.photography
   - [x] computerjargon.com
+  - [ ] Architecture of jason.motylinski.com
 - Books reviews
   - [x] Shape up
   - [ ] Three Body Problem
