@@ -3,7 +3,7 @@ title: 'Organizing Chaos - Zettelkasten Keeps Me Sane'
 date: 2024-01-30T12:00:00-05:00
 images: 
 - https://upload.wikimedia.org/wikipedia/commons/1/1a/Zettelkasten_paper_schematic.png
-draft: true
+draft: false
 tags: ['gtd', 'waysofworking']
 ---
 
