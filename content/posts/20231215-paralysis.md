@@ -18,7 +18,7 @@ I'm going to take my own advice. Here's a nonsensical, non-prioritized, non-comp
 - [ ] how to build consensus
 - [ ] It's ok to not be a tech firm
 - [ ] How much time does it take to be a manager?
-- [ ] Zettelkasten
+- [x] Zettelkasten
 - [ ] Korn Ferry
 - [ ] Personal and professional reading list
 - [x] BAPO
