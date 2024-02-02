@@ -11,7 +11,8 @@ fullPostContent = true
 displayMode = 'light'
 disableThemeSwitcher = true
 contentratio = 0.8
-
+relatedPosts = true
+numberOfRelatedPosts = 3
 
 [[params.socialIcons]]
 icon = "fab fa-linkedin"
