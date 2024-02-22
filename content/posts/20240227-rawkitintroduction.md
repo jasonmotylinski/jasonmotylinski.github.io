@@ -34,6 +34,6 @@ I developed a data pipeline that cataloged The Current's daily playlist and a si
 
 What exists today is a much more mature site and analytics for music. At some point the data I collected grew too large for the basic Ruby pipeline and website. I have since retooled everything. I'll talk about the current architecture in future posts.
 
-I've been tracking music trends now for over a decade at this point. I need to expand the sources of information. I love The Current but it has a midwest slant to it. I'm looking to start tracking other stations like [WXPN](https://xpn.org/) and [KUTX](https://xpn.org/).
+I've been tracking music trends now for over a decade at this point. I need to expand the sources of information and bring in more metadata about artists and genres. I love The Current but it has a midwest slant to it. I'm looking to start tracking other stations like [WXPN](https://xpn.org/) and [KUTX](https://xpn.org/).
 
 The availability of music on digital streaming services has homogenized music. People are still able to create a better connection between music and emotion. I'm going to continue to evolve [Rawk-it.com](https://www.rawk-it.com) with new and novel ways to explore music.
