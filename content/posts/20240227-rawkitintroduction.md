@@ -29,8 +29,7 @@ I was early in my data engineering career, learning that the internet was filled
 
 I developed a data pipeline that cataloged The Current's daily playlist and a simple Ruby application that charted song popularity. It became my "Music Radar", before it existed in Spotify. I set up a simple website, published the results, and named it [Rawk-it.com](https://www.rawk-it.com). The pipeline and chart refreshed daily. At any point I could pop on to the site and see what new music I may be missing out on.
 
-
-## What's Next for Rawk-it.com
+## The Future of Rawk-it.com
 
 What exists today is a much more mature site and analytics for music. At some point the data I collected grew too large for the basic Ruby pipeline and website. I have since retooled everything. I'll talk about the current architecture in future posts.
 
