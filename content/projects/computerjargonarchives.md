@@ -4,9 +4,13 @@ summary: Historical archive of contents from Computerjargon.com from 1999-2010.
 thumbnail: /projects/computerjargonarchives/computerjargon_thumb.png
 ---
 
-## Summary
+## Overview
 
 Historical archive of contents from [Computerjargon.com](https://www.computerjargon.com) from 1999-2010.
+
+## Posts
+
+{{< postlist "computerjargon" >}}
 
 ## Code
 

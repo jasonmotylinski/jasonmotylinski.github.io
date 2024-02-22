@@ -1,0 +1,13 @@
+{{ with $tag := .Get 0 }}
+  {{ with where site.RegularPages "Params.tags" "intersect" (slice $tag) }}
+    {{ with where . "Permalink" "ne" $.Page.Permalink }}
+    <ul>
+        {{ range . }}
+        <li><a href="{{ .RelPermalink }}">{{.PublishDate | time.Format ":date_medium"}} - {{ .LinkTitle }}</a></li>
+        {{ end }}
+    </ul>
+    {{ end }}
+  {{ end }}
+{{ else }}
+  {{ errorf "The %q shortcode requires a single positional parameter. See %s" .Name .Position }}
+{{ end }}

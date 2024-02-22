@@ -9,6 +9,10 @@ draft: false
 
 Data analysis of music trends based on terrestrial radio station playlists.
 
+## Posts
+
+{{< postlist "rawkit" >}}
+
 ## Architecture
 
 ```mermaid
