@@ -35,6 +35,9 @@ icon = "fa-regular fa-file-pdf"
 title = "Resume"
 url = "Jason Motylinski Resume.pdf"
 
+[params.mermaid]
+enable = true
+
 [menus]
 [[menus.main]]
   name = "Home"
