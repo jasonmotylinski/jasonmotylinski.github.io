@@ -1,6 +1,6 @@
 ---
 title: 'Rawk-it: An Introduction'
-date: 2024-02-27T12:00:00-05:00
+date: 2024-02-27T07:00:00-05:00
 images: 
 - /projects/rawkit/rawkit_thumb.png
 draft: false
