@@ -1,7 +1,9 @@
 ---
 title: 'Obsidian Love Story: Hierarchical Outgoing Links Plugin'
 date: 2024-04-09T12:00:00-05:00
-draft: true
+draft: false
+images: 
+- https://upload.wikimedia.org/wikipedia/commons/1/1a/Zettelkasten_paper_schematic.png
 tags: ['gtd', 'obsidian', 'project']
 ---
 
