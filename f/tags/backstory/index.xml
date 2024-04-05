@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Backstory on Jason Motylinski</title>
+    <link>http://localhost:1313/tags/backstory/</link>
+    <description>Recent content in Backstory on Jason Motylinski</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 03 Jan 2024 12:00:00 -0500</lastBuildDate><atom:link href="http://localhost:1313/tags/backstory/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Computerjargon.com Archives</title>
+      <link>http://localhost:1313/posts/20240103-computerjargon/</link>
+      <pubDate>Wed, 03 Jan 2024 12:00:00 -0500</pubDate>
+      
+      <guid>http://localhost:1313/posts/20240103-computerjargon/</guid>
+      
+        <description>I purchased the Computerjargon.com domain name back in 1998, shortly after I started my first job as a &amp;ldquo;web programmer&amp;rdquo;. I was working for a now-defunct company called Moore Data Management Systems in Minneapolis. The internet boom was just starting to take off and I was trying to ride it&amp;rsquo;s wave.
+I had been developing web pages and perl scripts since 1993. I remember updating HTML to be compliant with Netscape 1.</description>
+      
+    </item>
+    
+    <item>
+      <title>Hello</title>
+      <link>http://localhost:1313/posts/20231212-hello/</link>
+      <pubDate>Tue, 12 Dec 2023 20:17:06 -0500</pubDate>
+      
+      <guid>http://localhost:1313/posts/20231212-hello/</guid>
+      
+        <description>Hello there. Let&amp;rsquo;s get a few basics out of the way:
+Name: Jason Motylinski
+Profession: Software Engineering
+Years of experience: 25
+Current Role: VP, Engineering
+Previous Roles: Way too many to list. Started as an engineer, moved into leadership and people management about 12 years ago.
+Technologies: I&amp;rsquo;ve been all around the tech stack: backend, frontend, and APIs. I&amp;rsquo;ve been in the cloud and on-prem. I have built solutions from scratch and I have contributed to mature platforms.</description>
+      
+    </item>
+    
+  </channel>
+</rss>
