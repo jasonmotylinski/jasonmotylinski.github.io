@@ -58,3 +58,6 @@ For example, I'll create the task:
 
 ## Next Steps
 I developed the plugin to the level that I've started using it daily. It's not complex but I want to make sure there are no glaring bugs in it before releasing it to the general public. I'm working on getting it polished up so that it can be submitted for official inclusion into the the Obsidian plugin ecosystem. 
+
+## 04/13/2024 UPDATE
+My plugin has been officially released and is available in the Obsidian Community Plugins directory! Search for "Hierarchical Outgoing Links" to install it and let me know what you think!
