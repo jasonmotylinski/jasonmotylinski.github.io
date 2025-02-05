@@ -6,6 +6,7 @@ theme = 'anatole'
 [params]
 author = 'Jason Motylinski'
 description = 'Jason Motylinski'
+copyright = "2025"
 profilePicture = 'images/me-work.png'
 fullPostContent = true
 displayMode = 'light'
