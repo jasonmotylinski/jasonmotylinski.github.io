@@ -4,7 +4,7 @@ date: 2025-02-04T12:00:00-05:00
 draft: false
 tags: ['blogmarks']
 ---
-__[My approach to running a link blog](https://simonwillison.net/2024/Dec/22/link-blog/)__ (via) - I'm a bit late to the party on blogmarks but I'm finally here. Will argues in a different post that [you should blog](https://simonwillison.net/2022/Nov/6/what-to-blog-about/) but the stress of being interesting and topical becomes the barrier. To reduce that stress Will developed a pattern called __Blogmarks__ to give himself space to be imperfect and reduce the amount of initial effort to start writing.
+__[My approach to running a link blog](https://simonwillison.net/2024/Dec/22/link-blog/)__ - I'm a bit late to the party on blogmarks but I'm finally here. Will argues in a different post that [you should blog](https://simonwillison.net/2022/Nov/6/what-to-blog-about/) but the stress of being interesting and topical becomes the barrier. To reduce that stress Will developed a pattern called __Blogmarks__ to give himself space to be imperfect and reduce the amount of initial effort to start writing.
 
 The concept is simple - Share an interesting link. Leave a comment on it. Much like this post. I thought I'd give it a shot.
 
