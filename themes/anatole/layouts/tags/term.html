@@ -7,6 +7,11 @@
                     <a class="archive__list-title" href="{{ .RelPermalink }}" title="{{ .Title }}">{{ .Title }}</a> <span class="archive__list-date">{{ .Date | time.Format ":date_medium" }}</span>
                     <div>
                         {{ .Summary }}
+                        {{ if .Truncated }}
+                            <a  href="{{ .RelPermalink }}" style="text-decoration: underline; font-weight: bold; font-style: italic;">... Read More</a> 
+                        {{ end }}
+                  
+                        
                     </div>
                 </li>
             </ul>
