@@ -13,7 +13,7 @@
             <li class="archive__list-item">
                 <div style="display:inline-block; vertical-align: top">
                 <div>
-                    <a class="archive__list-title" href="{{ .RelPermalink }}" title="{{ .Title }}">{{ .Title }}</a>
+                    <a class="archive__list-title" href="{{ .RelPermalink }}" title="{{ .Title }}">{{ .Title }}</a> <span class="archive__list-date">{{ .Date | time.Format ":date_medium" }}</span>
                 
                 </div>
                 <div>

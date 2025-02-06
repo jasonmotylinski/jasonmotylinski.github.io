@@ -1,0 +1,15 @@
+{{ define "main" }}
+    <div style="padding-left: 30px">
+        <h1>Tag: {{.Title }}</h1>
+        {{ range .Pages }}
+            <ul class="archive__list">
+                <li class="archive__list-item">
+                    <a class="archive__list-title" href="{{ .RelPermalink }}" title="{{ .Title }}">{{ .Title }}</a> <span class="archive__list-date">{{ .Date | time.Format ":date_medium" }}</span>
+                    <div>
+                        {{ .Summary }}
+                    </div>
+                </li>
+            </ul>
+        {{ end }}
+    </div>
+{{ end }}

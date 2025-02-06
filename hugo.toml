@@ -54,9 +54,16 @@ enable = true
 
 
 [[menus.main]]
-  name = "Projects"
-  identifier = "projects"
+  name = "Tags"
+  identifier = "Tags"
   weight = 300
+  pageRef= "/tags/"
+
+
+[[menus.main]]
+  name = "Projects"
+  identifier = "Projects"
+  weight = 400
   pageRef= "/projects/"
 
 [markup]
@@ -68,3 +75,6 @@ enable = true
 [services]
   [services.googleAnalytics]
     ID = 'G-N18DLRD200'
+
+[taxonomies]
+    tag = "tags"

@@ -1,0 +1,12 @@
+{{ define "main" }}
+    <div style="padding-left: 30px">
+
+        {{ range .Site.Taxonomies.tags }}
+            <ul class="archive__list">
+                <li class="archive__list-item">
+                    <a class="archive__list-title" href="{{ .Page.Permalink }}" title="{{ .Page.Title }}">{{ .Page.Title }}</a> {{.Count}}</span>
+                </li>
+            </ul>
+        {{ end }}
+    </div>
+{{ end }}
